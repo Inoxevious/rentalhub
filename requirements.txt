@@ -1,5 +1,5 @@
-aniso8601
-asgiref
+aniso8601==7.0.0
+asgiref==3.3.4
 Django==3.1.4
 django-cors-headers==3.6.0
 django-debug-toolbar==3.2.1
